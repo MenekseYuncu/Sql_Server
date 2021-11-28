@@ -1,0 +1,1 @@
+select * from Kitap where KitapSayfa > 150
