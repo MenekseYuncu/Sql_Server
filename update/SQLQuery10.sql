@@ -1,0 +1,1 @@
+update Kitap set KitapYazar = 'Dostoyeveski', where KitapFiyat = 22,KitapAd='Suç ve '
