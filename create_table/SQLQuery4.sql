@@ -1,0 +1,1 @@
+alter table ogr add BaslamaTarih smalldatetime, OgrMahalle varchar(40)
