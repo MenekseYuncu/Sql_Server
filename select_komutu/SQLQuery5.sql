@@ -1,0 +1,1 @@
+select OgrNumara,OgrAd from ogr
