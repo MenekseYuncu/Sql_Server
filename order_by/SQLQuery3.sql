@@ -1,0 +1,1 @@
+select * from Kitap order by KitapSayfa desc
