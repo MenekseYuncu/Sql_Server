@@ -1,0 +1,1 @@
+select KitapAd,REPLACE(KitapYazar,'Zülfü Livaneli','Z.Livaneli') from Kitap

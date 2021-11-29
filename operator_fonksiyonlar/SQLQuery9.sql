@@ -1,0 +1,1 @@
+select SUBSTRING(KitapAd,1,5) from Kitap

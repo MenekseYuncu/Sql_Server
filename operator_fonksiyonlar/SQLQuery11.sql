@@ -1,0 +1,1 @@
+select KitapAd, LEN(KitapAd) as 'harf Sayýsý' from Kitap where LEN(KitapAd)>10 

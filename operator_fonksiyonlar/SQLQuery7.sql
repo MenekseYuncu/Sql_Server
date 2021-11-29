@@ -1,0 +1,1 @@
+select KitapAd ,KitapFiyat,KitapFiyat+3 as 'Yeni Fiyat' from Kitap

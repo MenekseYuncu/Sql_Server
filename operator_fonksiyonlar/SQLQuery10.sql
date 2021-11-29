@@ -1,0 +1,1 @@
+select UPPER(KitapAd) as 'Büyük harf',LOWER(KitapAd) as 'küçük harf' from Kitap
