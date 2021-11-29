@@ -1,0 +1,1 @@
+select KitapFiyat as 'KitapÜcreti',KitapAd as 'Kitapİsmi' from Kitap
