@@ -1,0 +1,7 @@
+select DATEDIFF(YEAR,'1923-10-29','2021-12-01') as 'Yýl farký',
+DATEDIFF(MONTH,'2016-01-05','2016-12-01') as 'ay farký',
+DATEDIFF(DAY,'2019-01-01','2019-12-01')as 'gün farký'
+
+
+select DATEDIFF(YEAR,'1919-05-19',GETDATE())
+select DATEADD(day,10,GETDATE())
